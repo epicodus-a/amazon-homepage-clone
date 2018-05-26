@@ -1,9 +1,11 @@
+
 # Source amazon-homepage-clone
 
 ## [Live Demo](https://epicodus-a.github.io/amazon-homepage-clone/)
 
 ## Description
 
+- All images credits go to amazon.com, this site is only for practicing.
 - A clone of amazon-homepage, May 25th, 2018
 
 ### Setup/Installation Requirements
